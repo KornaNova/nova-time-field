@@ -2,6 +2,14 @@
 
 All notable changes to `nova-time-field` will be documented in this file
 
+## v2.1.0 - 2026-05-06
+
+### What's Changed
+
+* Add Laravel 13 support by @mikaelpopowicz in https://github.com/oneduo/nova-time-field/pull/2
+
+**Full Changelog**: https://github.com/oneduo/nova-time-field/compare/v2.0.0...v2.1.0
+
 ## v2.0.0 - 2025-03-07
 
 ### What's Changed
